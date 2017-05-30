@@ -1,0 +1,7 @@
+BiophysicsMedian723,N,N,N
+CompressiveRobot182,N,Y,Y
+ArtificialArcWye720
+,Y,Y,N
+CoefficientAmino716
+,Y,N,Y
+FickBodiesEngine125,Y,Y,Y
